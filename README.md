@@ -4,7 +4,7 @@
 
 **.uses.cf** is a free subdomain service where i got `uses.cf` from freenom.com. it is a free domain service. i do not own the domain, it got registered from freenom and freenom owns the domain. thats basic intro of our service. read the docs to get started
 
-### Similar services that you shoould use
+### Brothers
 * [is-a.dev](https://github.com/is-a-dev/register)
 * [js.org](https://github.com/js-org/js.org/tree/master) (**NOTE**: `js.org` is specifically for JS focused project)
 * [is-a-good.dev](https://github.com/is-a-good-dev/Register) 
