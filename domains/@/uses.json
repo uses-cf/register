@@ -1,0 +1,9 @@
+
+{
+    "name": "uses",
+    "username": "TerraPLayz",
+    "repo": "github.com/uses-cf/register",
+    "records": {
+       "CNAME": "uses.cf"
+    }
+}
