@@ -1,8 +1,9 @@
-#### infomation about uses.dev
+#### About
 
 **.uses.cf** is a free subdomain service where `cf` means cloudflare. This service is not related or connected to cloudflare. It is just a way to get subdomains for people who do/dont use cloudflare.
 
 **.uses.cf** is a free subdomain service. The domain is registered using freenom, I do not own the domain, freenom is the owner.
+Check the docs to get started.
 
 ### Brothers and Sisters
 * [is-a.dev](https://github.com/is-a-dev/register)
