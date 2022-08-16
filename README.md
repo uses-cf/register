@@ -15,10 +15,10 @@ Check the docs to get started.
 
 * [TerraPlayz](https://github.com/TerraPLayz) Owner 
 
-* [VaibhavSys](https://github.com/VaibhavSys) 2nd Owner and Maintiner  
+* [VaibhavSys](https://github.com/VaibhavSys) 2nd Owner and Maintainer  
 
 * [MaskDuck](https://github.com/MaskDUck) Maintainer 
 
-* [AceyDoCodes](https://github.com/AceyDoCodes) Maintianer
+* [AceyDoCodes](https://github.com/AceyDoCodes) Maintainer
 
 * [mtgsquad - Mahir ](https://github.com/mtgsquad) Maintainer
