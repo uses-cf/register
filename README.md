@@ -13,12 +13,12 @@ Check the docs to get started.
 
 #### Our Team
 
-* [TerraPlayz](https://github.com/TerraPLayz) Owner 
+* [TerraPlayz](https://github.com/TerraPLayz) [`OmxproYT#1165`] Owner 
 
-* [VaibhavSys](https://github.com/VaibhavSys) 2nd Owner and Maintainer  
+* [VaibhavSys](https://github.com/VaibhavSys) [`Vaibhav#9056`] 2nd Owner and Maintainer  
 
-* [MaskDuck](https://github.com/MaskDUck) Maintainer 
+* [MaskDuck](https://github.com/MaskDuck) [`MaskDuck#7325`] Maintainer 
 
-* [AceyDoCodes](https://github.com/AceyDoCodes) Maintainer
+* [AceyDoCodes](https://github.com/AceyDoCodes) [`AceyGoesBoom#3141`] Maintainer
 
-* [mtgsquad - Mahir ](https://github.com/mtgsquad) Maintainer
+* [mtgsquad - Mahir ](https://github.com/mtgsquad) [`mahir m.#2674 `] Maintainer
