@@ -8,7 +8,7 @@ Check the docs to get started.
 ### Brothers and Sisters
 * [is-a.dev](https://github.com/is-a-dev/register)
 * [js.org](https://github.com/js-org/js.org/tree/master) (**NOTE**: `js.org` is specifically for JS focused project)
-* [is-a-good.dev](https://github.com/is-a-good-dev/Register) 
+* **[is-a-good.dev](https://github.com/is-a-good-dev/Register)**
 * [cluster.ws & wip.la](https://github.com/Olivr/free-domain)
 
 #### Our Team
