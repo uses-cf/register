@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "@uses-cf/maintainers",
+    },
+    "repo": "https://github.com/uses-cf/register",
+    "record": {
+       "CNAME": "edge.redirect.pizza"
+    }
+}
