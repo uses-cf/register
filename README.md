@@ -17,8 +17,6 @@ Check the docs to get started.
 
 * [VaibhavSys](https://github.com/VaibhavSys) [`Vaibhav#9056`] 2nd Owner and Maintainer  
 
-* [MaskDuck](https://github.com/MaskDuck) [`MaskDuck#7325`] Maintainer 
-
 * [AceyDoCodes](https://github.com/AceyDoCodes) [`AceyGoesBoom#3141`] Maintainer
 
 * [mtgsquad - Mahir ](https://github.com/mtgsquad) [`mahir m.#2674 `] Maintainer
