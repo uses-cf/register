@@ -1,0 +1,16 @@
+{
+    "owner": {
+        "username": "lpcra",
+        "email": "bd3qc59@gmail.com",
+        "discord": "no"
+    },
+    "repo": "https://github.com/lpcra",
+    "description": "Personal network test",
+    "record": {
+       "NS": "ns1.he.net",
+       "NS": "ns2.he.net",
+       "NS": "ns3.he.net",
+       "NS": "ns4.he.net",
+       "NS": "ns5.he.net",
+    }
+}
